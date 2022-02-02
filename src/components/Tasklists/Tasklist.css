@@ -1,0 +1,62 @@
+#tasklist{
+	background-color: blueviolet;
+	width: 50%;
+	height: 100%;
+	padding: 40px;
+}
+.main{
+	background-color: #00008B;
+	gap: 12px;
+	height: 100%;
+	width: 70%;
+	border-radius: 12px;
+	color: white;
+	font-family: cursive;
+	align-content: center;
+	justify-content: center;
+	padding: 50px;
+	font-weight: 700;
+
+
+}
+.texts{
+	background-color: #ADD8E6;
+	gap: 12px;
+	border-radius: 12px;
+	color: #FA5F55;
+
+}
+#task5{
+	color: #9F2B68;
+}
+.list{
+	color: brown;
+	background-color: white;
+	border-radius: 12px;
+	gap: 60px;
+	display: flex;
+	width: 70%;
+	align-content: center;
+	justify-content: center;
+}
+.name{
+	width: 30%;
+	height: 40px;
+	background-color: #FF10F0;
+	border-radius: 8px;
+}
+.duedate{
+	width: 30%;
+	background-color:#F8C8DC ;
+	border-radius: 8px;
+	height: 40px;
+	color:black ;
+}
+.desc{
+	background-color:#F3CFC6 ;
+	color:brown ;
+	border-radius: 8px;
+	height: 40px;
+	padding: 2px;
+
+}
